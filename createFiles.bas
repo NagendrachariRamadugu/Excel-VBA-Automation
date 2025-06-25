@@ -9,9 +9,9 @@ Sub CreateFiles()
     
     folderPath = "C:\Users\[username]\Excel\ExcelFiles\"
     'Replace [username] with your windows _
-    user profile name. Make sure you create the _
-    necessary folders present in the folderPath _
-    Or else, customize folderpath at your own convenience.
+    'user profile name. Make sure you create the _
+    'necessary folders present in the folderPath _
+    'Or else, customize folderpath at your own convenience.
     
     
     Application.ScreenUpdating = False
